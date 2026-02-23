@@ -78,7 +78,7 @@ To design a reliable and modular hardware-based automation system for controllin
 ## 📸 Hardware Prototype
 
 <p align="center">
-  <img src="images/hardware_setup.jpg" width="700">
+  <img src="images/.jpeg" width="700">
 </p>
 
 ---
